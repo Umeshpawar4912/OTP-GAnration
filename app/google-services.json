@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "599869073845",
+    "firebase_url": "https://otpgenartion.firebaseio.com",
+    "project_id": "otpgenartion",
+    "storage_bucket": "otpgenartion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599869073845:android:d8f9dc9195695b79",
+        "android_client_info": {
+          "package_name": "pawar.umesh.otpgenartion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599869073845-i08avhns7a36g8ittqrj3a7b5334v1ck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pawar.umesh.otpgenartion",
+            "certificate_hash": "45ed8c475b42485390767a714b11b2e495dfa347"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGEGFkVl4i8Z8LwJkImN9lzk5lbL3utUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599869073845-osc7f5tctil2fr7prrdqdk4n07e1i1u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
